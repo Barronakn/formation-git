@@ -1,0 +1,5 @@
+# Ignore les classes
+classes/
+
+# Ignore tous les fichiers terminés par ~
+*~
